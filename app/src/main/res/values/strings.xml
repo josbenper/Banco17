@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Banco</string>
+    <string name="bienvenida">Bienvenido a nuestra app </string>
+    <string name="iniciar">Iniciar sesión</string>
+
+    <string name="usuario">Usuario: </string>
+    <string name="pass">Contraseña: </string>
+    <string name="entrar">Entrar</string>
+    <string name="salir">Salir</string>
+
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+
+    <string name="posicion">Posición global</string>
+    <string name="ingresos">Ingresos</string>
+    <string name="cambiarpass">Cambiar contraseña</string>
+    <string name="texto">texto</string>
+    <string name="cuentas">Cuentas</string>
+    <string name="movimientos">Movimientos</string>
+    <!--<string name="salir">Salir</string>-->
+
+
+</resources>
