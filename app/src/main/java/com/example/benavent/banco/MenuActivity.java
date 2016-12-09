@@ -66,4 +66,10 @@ public class MenuActivity extends AppCompatActivity {
         activity.putExtra("cliente", cliente);
         startActivity(activity);
     }
+
+    public void getToTransferencias(View v){
+        Intent activity = new Intent(getApplicationContext(), TransferenciaActivity.class);
+        activity.putExtra("cliente", cliente);
+        startActivity(activity);
+    }
 }
